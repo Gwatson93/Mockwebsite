@@ -1,0 +1,143 @@
+body {
+  text-align: center;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  color: white;
+  font-family: Abel, sans-serif;
+}
+
+.bottom-container {
+  background-color: #6B728E;
+}
+
+.btn {
+  visibility: hidden;
+}
+
+.cbutton {
+  visibility: visible;
+  position: relative;
+  right: 42px;
+  max-width: 35px;
+  max-height: 35px;
+}
+
+.code {
+  float: right;
+  margin-left: 30px;
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.contact {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.computer {
+  position: relative;
+  right: 32px;
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.communication {
+  margin-right: 30px;
+  max-width: 200px;
+  max-height: 200px;
+  float: left;
+}
+
+.intro {
+  background-color: #404258;
+  background-size: contain;
+}
+
+.keyboard {
+  max-height: 250px;
+  max-width: 250px;
+  transform: rotate(35deg);
+  position: relative;
+  right: 25px;
+}
+
+.linkedin {
+  visibility: hidden;
+}
+
+.lbutton {
+  position: relative;
+  right: 6px;
+  visibility: visible;
+  max-width: 35px;
+  max-height: 35px;
+}
+
+.mouse {
+  position: relative;
+  right: 65px;
+  top: 15px;
+  max-height: 200px;
+  max-width: 200px;
+  transform: rotate(340deg);
+}
+
+.skill-row {
+  right: 100px;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  padding-bottom: 15px;
+  background-size: contain;
+}
+
+.top-container {
+  background-color: #404258;
+  position: relative;
+  padding-top: 70px;
+}
+
+.twitter {
+  visibility: hidden;
+}
+
+.tbutton {
+  position: relative;
+  right: 53px;
+  visibility: visible;
+  max-width: 35px;
+  max-height: 35px;
+}
+
+div {
+  background-color: #404258;
+  margin-top: 0px;
+}
+
+h1 {
+  margin-top: 0;
+  margin: auto;
+  line-height: 2;
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+hr {
+  text-align: center;
+  width: 15%;
+  background-color: none;
+  border: none;
+  border-top: 4px dashed #8c8b8b;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 18px;
+}
